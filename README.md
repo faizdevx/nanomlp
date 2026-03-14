@@ -369,6 +369,12 @@ a increases
 
 Because increasing **a** reduces the loss.
 
+as both equation shows negative it depend on a situation 
+what if gradient is positive then we have to decrease the a such to decrease the loss 
+and if gradient is negative then we have to increase the a such to decrease the loss 
+but in both case we just subtract cause it same 
+
+
 ---
 
 # Neuron
@@ -509,3 +515,7 @@ JAX
 ```
 
 are basically **optimized autograd engines**.
+
+
+# COMPLETED A MICROGRAD HEAR ONLY
+
